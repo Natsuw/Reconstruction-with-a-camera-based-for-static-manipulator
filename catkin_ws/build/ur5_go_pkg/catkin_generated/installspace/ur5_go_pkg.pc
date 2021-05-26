@@ -1,0 +1,8 @@
+prefix=/home/sky/catkin_ws/install
+
+Name: ur5_go_pkg
+Description: Description of ur5_go_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

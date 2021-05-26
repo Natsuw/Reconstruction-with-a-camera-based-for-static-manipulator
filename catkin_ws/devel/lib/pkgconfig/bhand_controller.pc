@@ -1,0 +1,8 @@
+prefix=/home/sky/catkin_ws/devel
+
+Name: bhand_controller
+Description: Description of bhand_controller
+Version: 0.1.2
+Cflags: -I/home/sky/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

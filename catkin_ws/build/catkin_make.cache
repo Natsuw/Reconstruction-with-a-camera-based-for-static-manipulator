@@ -1,0 +1,2 @@
+universal_robot/universal_robot:universal_robot/universal_robots:universal_robot/ur5_moveit_config:universal_robot/ur_bringup:universal_robot/ur_description:universal_robot/ur_driver:universal_robot/ur_gazebo:universal_robot/ur_kinematics:universal_robot/ur_msgs:ur5_go_pkg
+-DCATKIN_DEVEL_PREFIX=/home/sky/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sky/catkin_ws/install -G Unix Makefiles
